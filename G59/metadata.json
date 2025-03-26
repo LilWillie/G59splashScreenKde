@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "adamchaxkiev@gmail.com",
+                "Name": ""
+            }
+        ],
+        "Category": "",
+        "Description": "xd koza",
+        "Id": "koziiiiiii",
+        "License": "GPLv3",
+        "Name": "koziiiiiii",
+        "Website": ""
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+
